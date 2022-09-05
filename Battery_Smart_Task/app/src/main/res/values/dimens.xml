@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_2dp">2dp</dimen>
+    <dimen name="margin_x_small">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_6dp">6dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_custom">18dp</dimen>
+    <dimen name="margin_custom2">20dp</dimen>
+
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_x_large">48dp</dimen>
+
+    <dimen name="padding_xtra_small">6dp</dimen>
+    <dimen name="padding_x_small">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_custom_10">10dp</dimen>
+
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_x_medium">18dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="padding_x_large">32dp</dimen>
+
+    <dimen name="text_size_very_small">10sp</dimen>
+    <dimen name="text_size_xx_small">12sp</dimen>
+
+    <dimen name="text_size_custom2">13sp</dimen>
+    <dimen name="text_size_custom3">14sp</dimen>
+    <dimen name="text_size_default">15sp</dimen>
+    <dimen name="text_size_custom">17sp</dimen>
+
+    <dimen name="text_size_x_small">16sp</dimen>
+    <dimen name="text_size_small">18sp</dimen>
+    <dimen name="text_size_medium">20sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_x_large">28sp</dimen>
+
+    <dimen name="loading_radius">72dp</dimen>
+
+    <dimen name="small_progress_radius">34dp</dimen>
+    <dimen name="progress_radius">44dp</dimen>
+
+    <dimen name="cart_size">32dp</dimen>
+    <dimen name="cart_radius">20dp</dimen>
+
+    <dimen name="dialog_steps_size">140dp</dimen>
+    <dimen name="trace_steps_size">200dp</dimen>
+    <dimen name="medication_size">220dp</dimen>
+
+    <dimen name="empty_view_size">180dp</dimen>
+
+    <dimen name="corner_elevation">5dp</dimen>
+    <dimen name="corner_radius_default">16dp</dimen>
+
+    <dimen name="cardview_contracted_height">10dp</dimen>
+    <dimen name="cardview_expanded_height">335dp</dimen>
+    <dimen name="card_radius_small">8dp</dimen>
+    <dimen name="card_radius_medium">12dp</dimen>
+
+    <dimen name="date_width">250dp</dimen>
+
+    <dimen name="cardview_width">300dp</dimen>
+    <dimen name="cardview_width_350">350dp</dimen>
+
+    <dimen name="stop_height">30dp</dimen>
+    <dimen name="stop_width">70dp</dimen>
+
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">190dp</dimen>
+
+    <dimen name="loading_external_radius_default">24dp</dimen>
+    <dimen name="loading_internal_radius_default">4dp</dimen>
+
+    <dimen name="default_height">36dp</dimen>
+
+    <dimen name="button_size">48dp</dimen>
+
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="button_width">120dp</dimen>
+
+    <dimen name="drawable_size">35dp</dimen>
+
+    <dimen name="edittext_width">48dp</dimen>
+    <dimen name="round_button_radius">26dp</dimen>
+
+    <dimen name="logo_width">270dp</dimen>
+    <dimen name="logo_height">160dp</dimen>
+    <dimen name="profile_pic_radius">90dp</dimen>
+
+    <dimen name="tabheight">3dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="remove_height">36dp</dimen>
+    <dimen name="remove_width">80dp</dimen>
+    <dimen name="remove_width_new">100dp</dimen>
+    <dimen name="remove_margin">2dp</dimen>
+
+    <dimen name="scalingFactor">1</dimen>
+    <dimen name="translationY">-92dp</dimen>
+
+    <dimen name="grid_spacing">12dp</dimen>
+    <dimen name="insight_dimen">42dp</dimen>
+    <dimen name="insight_dimen_small">36dp</dimen>
+    <dimen name="cardview_width_400">400dp</dimen>
+    <dimen name="padding_xx_small">2dp</dimen>
+
+
+    <dimen name="dialog_corner">16dp</dimen>
+    <dimen name="dialog_width">295dp</dimen>
+    <dimen name="dialog_radio_margin">8dp</dimen>
+
+    <dimen name="dialog_title_font">20sp</dimen>
+    <dimen name="dialog_body_font">16sp</dimen>
+    <dimen name="dialog_button_font">14sp</dimen>
+    <dimen name="text_size_profile">10dp</dimen>
+    <dimen name="bottom_margin_profile">10dp</dimen>
+    <dimen name="start_rx_suggestion">16dp</dimen>
+    <dimen name="text_size_rx_suggestion">11sp</dimen>
+    <dimen name="text_size_rx_draft">12sp</dimen>
+    <dimen name="box_padding_emr">6dp</dimen>
+    <dimen name="card_margin_inside">8dp</dimen>
+    <dimen name="top_margin_emr_cards">14dp</dimen>
+    <dimen name="card_view_small_radius">8dp</dimen>
+    <dimen name="card_view_medium_radius">12dp</dimen>
+    <dimen name="card_view_default_radius">16dp</dimen>
+    <dimen name="popup_window_height">200dp</dimen>
+    <dimen name="spacing32">32dp</dimen>
+    <dimen name="spacing64">64dp</dimen>
+    <dimen name="max_height_autocomplete">250dp</dimen>
+    <dimen name="spacing128">128dp</dimen>
+    <dimen name="spacing144">144dp</dimen>
+    <dimen name="spacing156">156dp</dimen>
+    <dimen name="spacing172">172dp</dimen>
+    <dimen name="spacing72">72dp</dimen>
+    <dimen name="spacing86">86dp</dimen>
+    <dimen name="marginSideReview">16dp</dimen>
+    <dimen name="marginBottomReview">16dp</dimen>
+    <dimen name="heading_edit_patient">13sp</dimen>
+    <dimen name="padding_edit_profile">10dp</dimen>
+    <dimen name="appt_item_text_size">13sp</dimen>
+    <dimen name="appt_item_text_size_title">13sp</dimen>
+    <dimen name="appt_item_text_margin">6dp</dimen>
+    <dimen name="profile_name_title">18sp</dimen>
+    <dimen name="spacing4">4dp</dimen>
+    <dimen name="spacing8">8dp</dimen>
+    <dimen name="spacing16">16dp</dimen>
+    <dimen name="spacing90">90dp</dimen>
+    <dimen name="dimen_doc_profile_vertical">16dp</dimen>
+    <dimen name="dimen_doc_profile_verical_item">4dp</dimen>
+    <dimen name="delete_patient_icon_size">12dp</dimen>
+    <dimen name="text_size_text_tab">13sp</dimen>
+    <dimen name="expendable_icon_size">32dp</dimen>
+    <dimen name="text_radio_tab">14sp</dimen>
+    <dimen name="text_date_tab">8sp</dimen>
+    <dimen name="margin_tab_x_small">4dp</dimen>
+    <dimen name="text_size_tab_small">16sp</dimen>
+    <dimen name="tab_profile_name_title">16sp</dimen>
+    <dimen name="text_tab_item">13sp</dimen>
+    <dimen name="test_size_16">16sp</dimen>
+    <dimen name="test_size_20">20sp</dimen>
+    <dimen name="test_size_22">22sp</dimen>
+    <dimen name="test_size_24">24sp</dimen>
+    <dimen name="test_size_18">18sp</dimen>
+    <dimen name="test_size_10">10sp</dimen>
+    <dimen name="test_size_12">12sp</dimen>
+    <dimen name="hight_layout_edit">60dp</dimen>
+    <dimen name="width_layout_edit">45dp</dimen>
+    <dimen name="hight_box_edit">50dp</dimen>
+
+    <dimen name="margin_xx_small">8dp</dimen>
+    <dimen name="test_size_14">14sp</dimen>
+
+    <dimen name="tab_padding_default">32dp</dimen>
+    <dimen name="tab_padding_small">18dp</dimen>
+    <dimen name="tab_padding_medium">18dp</dimen>
+    <dimen name="tab_padding_xtra_small">10dp</dimen>
+    <dimen name="tab_padding_small_14">14dp</dimen>
+    <dimen name="tab_padding_small_15">15dp</dimen>
+    <dimen name="tab_padding_large">40dp</dimen>
+
+    <dimen name="tab_margin_default">32dp</dimen>
+    <dimen name="tab_margin_small">18dp</dimen>
+    <dimen name="tab_margin_x_small">10dp</dimen>
+    <dimen name="tab_margin_medium">26dp</dimen>
+    <dimen name="tab_margin_custom2">40dp</dimen>
+    <dimen name="tab_margin_custom">34dp</dimen>
+    <dimen name="tab_margin_large">55dp</dimen>
+
+    <dimen name="tab_drawable_size">48dp</dimen>
+    <dimen name="tab_button_width">250dp</dimen>
+    <dimen name="tab_button_height">60dp</dimen>
+    <dimen name="tab_drawable_size_profile">72dp</dimen>
+
+    <dimen name="tab_text_size_x_small">16sp</dimen>
+    <dimen name="rx_button_width">140dp</dimen>
+    <dimen name="rx_letterhead_higth">150dp</dimen>
+    <dimen name="hight_letterhead">150dp</dimen>
+    <dimen name="corner_x_small">8dp</dimen>
+    <dimen name="corner_10">10dp</dimen>
+    <dimen name="corner_15">15dp</dimen>
+
+
+</resources>

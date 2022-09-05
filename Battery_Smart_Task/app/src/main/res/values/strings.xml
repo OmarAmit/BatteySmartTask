@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Battery Smart Task</string>
+    <string name="enter_country_name">Select Country</string>
+    <string name="enter_state_name">Select State</string>
+    <string name="add_money_text">Add Money To You Wallet \nAnd Make Payment</string>
+    <string name="text_enter_amount">Enter Amount</string>
+    <string name="recommended">Recommended</string>
+    <string name="txt_Payment">Payment Mode</string>
+    <string name="txt_online">Online</string>
+    <string name="txt_upi">UPI</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_recharge">Recharge</string>
+    <string name="txt_rs">\u20B9 10000</string>
+
+</resources>
